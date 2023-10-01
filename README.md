@@ -16,6 +16,7 @@ Membership Inference Attacks (MIA) threaten neural network models by compromisin
 <img src="https://github.com/BennyTMT/weighted-smoothing/blob/main/resource/ws.png" alt="Sample Image" width="400" height="300"/>
 <img src="https://github.com/BennyTMT/weighted-smoothing/blob/main/resource/dp.png" alt="Sample Image" width="400" height="300"/>
 </p>
+
 ## Running the Code
 
 Execute the project using the `run.sh` file. Note that most datasets, such as Location30, Texas100, FACE, or HAM10000, are not available for download via official PyTorch channels. You will need to set up your data formats for successful execution.
