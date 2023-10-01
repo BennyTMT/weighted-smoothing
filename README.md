@@ -1,7 +1,7 @@
 # weighted-smoothing
 Mitigating the risks of Membership Inference Attacks (MIA) on neural network models is crucial for maintaining model privacy. The proposed Weighted Smoothing approach is a strategic answer to this challenge.
 
-<img src="[https://github.com/yourusername/your-repo-name/blob/main/image.png](https://github.com/BennyTMT/weighted-smoothing/blob/main/resource/dp.png)" alt="Sample Image" width="200" height="150"/>
+<img src="https://github.com/BennyTMT/weighted-smoothing/blob/main/resource/dp.png" alt="Sample Image" width="200" height="150"/>
 
 ## Table of Contents
 - [Project Summary](#project-summary)
