@@ -5,7 +5,7 @@ Mitigating the risks of Membership Inference Attacks (MIA) on neural network mod
 - [Project Summary](#project-summary)
 - [Running the Code](#running-the-code)
 - [Further Information](#further-information)
-- [Contact](#wtd3gz@virginia.edu)
+- [Contact](#contact)
 
 ## Project Summary
 
@@ -22,4 +22,5 @@ Detailed introduction and code will be provided in the future. Stay tuned for mo
 ## Contact
 
 Should you have any queries regarding the project, feel free to reach us via email. Your feedback and questions are always welcome.
+wtd3gz@virginia.edu
 
