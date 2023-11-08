@@ -12,10 +12,7 @@ Mitigating the risks of Membership Inference Attacks (MIA) on neural network mod
 ## Project Summary
 
 Membership Inference Attacks (MIA) threaten neural network models by compromising privacy. Despite the efforts of current differential privacy-based methods to alleviate this threat, a significant drop in accuracy is a common shortfall. This research is an in-depth exploration of the variation in MIA risk across different samples and a study into the potential reasons behind this variability. We introduce a tailored strategy, termed as "weighted smoothing". This technique selectively introduces noise to training samples, considering their class distribution, effectively mitigating MIA risks while preserving model accuracy. Our empirical analysis attests to the superior performance of our approach. It significantly undermines the effectiveness of MIA, bringing down the success rate of two advanced MIAs to near-random levels (i.e., a 0.5 success rate) with a negligible loss in accuracy.
-<p float="left">
-<img src="https://github.com/BennyTMT/weighted-smoothing/blob/main/resource/ws.png" alt="Sample Image" width="400" height="300"/>
-<img src="https://github.com/BennyTMT/weighted-smoothing/blob/main/resource/dp.png" alt="Sample Image" width="400" height="300"/>
-</p>
+
 
 ## Running the Code
 
